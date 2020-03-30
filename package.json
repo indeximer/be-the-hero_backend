@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start-dev": "nodemon src/index.js",
-    "start": "node src/app.js"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "Douglas Fortunato <douglasfortunato@hotmail.com> (https://github.com/indeximer)",
