@@ -10,4 +10,4 @@ Create/Udapdate the database:
 ```npx knex migrate:latest```
 
 Run the project:
-```npm start```
+```npm start-dev```
